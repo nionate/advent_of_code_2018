@@ -1,4 +1,4 @@
-file = File.open('input.txt')
+file = File.open('input2.txt')
 count_hash = {"2" => 0, "3" => 0}
 checksum_hash = {"2" => 0, "3" => 0}
 
